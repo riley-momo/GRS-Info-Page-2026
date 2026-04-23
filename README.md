@@ -10,7 +10,7 @@ Welcome to the supplementary information page for my poster presentation. Below 
 ## 💻 Code & Repositories
 
 ### Ontology-Driven Process Analysis Engine (OPAL)
-The official GitHub repository for the OPAL engine, providing tools and frameworks for ontology-driven process mining.
+The official GitHub repository for the OPAL engine, providing a python-based implementation of our framework for ontology-driven process mining.
 * **Repository:** [Ontology-Benchmarks/opal](https://github.com/Ontology-Benchmarks/opal)
 
 ### Object Role Ontology Discovery
